@@ -1,0 +1,6 @@
+[submodule "SnailSynk-v1.0"]
+	path = SnailSynk-v1.0
+	url = https://github.com/keshrisaksham/SnailSynk-v1.0.git
+[submodule "SnailSynk-v0.5"]
+	path = SnailSynk-v0.5
+	url = https://github.com/keshrisaksham/SnailSynk-v0.5.git
